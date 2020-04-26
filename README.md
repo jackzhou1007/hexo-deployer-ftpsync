@@ -1,4 +1,4 @@
-# FTP deployer
+# 使用ftp方式同步静态文件到虚拟主机过程中, committing部分卡住
 
 使用ftp方式同步静态文件到虚拟主机过程中, committing部分卡住
 可以参见原文查看办法和分析Hexo ftpsync错误分析我就提供下最方便的懒人直接操作了
